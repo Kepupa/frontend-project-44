@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-console.log('Hello, world!');
-console.log('Hello, Alek!');
+import  helloUser  from '../src/cli.js';
+helloUser()
