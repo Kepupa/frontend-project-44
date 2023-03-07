@@ -12,6 +12,8 @@ const gameCulc = (num1, num2, operator) => {
     case '*':
       return num1 * num2;
     default:
+      console.log('Unavaliable operator used.');
+      return null;
   }
 };
 
