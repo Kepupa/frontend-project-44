@@ -4,6 +4,16 @@
 
 ### This is my first project
 
+## How to install
+### System requirements
+Node.js v13 or higher
+
+### Installation
+    
+    git clone https://github.com/Kepupa/frontend-project-44.git
+    cd frontend-project-44
+    make install
+
 ## brain-game
 <a href="https://asciinema.org/a/Wh7pM9RV4BhYnm2wXlrfXfRRj" target="_blank"><img src="https://asciinema.org/a/Wh7pM9RV4BhYnm2wXlrfXfRRj.svg" /></a>
 
